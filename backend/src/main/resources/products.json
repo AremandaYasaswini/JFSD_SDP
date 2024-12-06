@@ -1,0 +1,50 @@
+{
+  "Fruits": [
+    { "id": 1, "name": "Banana", "price": "₹75", "image": "/Images/Fruits/banana.jpeg" },
+    { "id": 2, "name": "Mango", "price": "₹187.50", "image": "/Images/Fruits/mango.jpeg" },
+    { "id": 3, "name": "Papaya", "price": "₹150", "image": "/Images/Fruits/papaya.jpeg" },
+    { "id": 4, "name": "Guava", "price": "₹112.50", "image": "/Images/Fruits/Guava.jpeg" },
+    { "id": 5, "name": "Pineapple", "price": "₹225", "image": "/Images/Fruits/pineapple.jpeg" },
+    { "id": 6, "name": "Coconut", "price": "₹131.25", "image": "/Images/Fruits/coconut.jpeg" }
+  ],
+  "Vegetables": [
+    { "id": 7, "name": "Tomato", "price": "₹60", "image": "/Images/veggies/tomato.jpeg" },
+    { "id": 8, "name": "Cucumber", "price": "₹50", "image": "/Images/veggies/cucumber.jpeg" },
+    { "id": 9, "name": "Cauliflower", "price": "₹90", "image": "/Images/veggies/cauli.jpeg" },
+    { "id": 10, "name": "Bell Pepper (Capsicum)", "price": "₹80", "image": "/Images/veggies/bell.jpeg" },
+    { "id": 11, "name": "Carrot", "price": "₹75", "image": "/Images/veggies/carrots.jpeg" },
+    { "id": 12, "name": "Radish", "price": "₹45", "image": "/Images/veggies/radish.jpeg" }
+  ],
+  "Leafy Vegetables": [
+    { "id": 13, "name": "Spinach", "price": "₹112.50", "image": "/Images/leaf/l1.jpeg" },
+    { "id": 14, "name": "Methi (Fenugreek Leaves)", "price": "₹90", "image": "/Images/leaf/l2.jpeg" },
+    { "id": 15, "name": "Amaranth Leaves (Thandu Keerai)", "price": "₹97.50", "image": "/Images/leaf/l3.jpeg" },
+    { "id": 16, "name": "Mustard Greens", "price": "₹105", "image": "/Images/leaf/l4.jpeg" },
+    { "id": 17, "name": "Curry Leaves", "price": "₹60", "image": "/Images/leaf/l5.jpeg" },
+    { "id": 18, "name": "Cilantro (Coriander Leaves)", "price": "₹75", "image": "/Images/leaf/l6.jpeg" }
+  ],
+  "Millets": [
+    { "id": 19, "name": "Pearl Millet (Bajra)", "price": "₹112.50", "image": "/Images/millets/m1.jpeg" },
+    { "id": 20, "name": "Finger Millet (Ragi)", "price": "₹127.50", "image": "/Images/millets/m2.jpeg" },
+    { "id": 21, "name": "Foxtail Millet", "price": "₹120", "image": "/Images/millets/m3.jpeg" },
+    { "id": 22, "name": "Barnyard Millet", "price": "₹135", "image": "/Images/millets/m4.jpeg" },
+    { "id": 23, "name": "Little Millet", "price": "₹105", "image": "/Images/millets/m5.jpeg" },
+    { "id": 24, "name": "Kodo Millet", "price": "₹120", "image": "/Images/millets/m6.jpeg" }
+  ],
+  "Pulses": [
+    { "id": 25, "name": "Toor Dal (Pigeon Pea)", "price": "₹150", "image": "/Images/pulses/p1.jpeg" },
+    { "id": 26, "name": "Moong Dal (Green Gram)", "price": "₹135", "image": "/Images/pulses/p2.jpeg" },
+    { "id": 27, "name": "Chana Dal (Bengal Gram)", "price": "₹165", "image": "/Images/pulses/p3.jpeg" },
+    { "id": 28, "name": "Urad Dal (Black Gram)", "price": "₹157.50", "image": "/Images/pulses/p4.jpeg" },
+    { "id": 29, "name": "Masoor Dal (Red Lentil)", "price": "₹142.50", "image": "/Images/pulses/p5.jpeg" },
+    { "id": 30, "name": "Black-eyed Peas", "price": "₹150", "image": "/Images/pulses/p6.jpeg" }
+  ],
+  "Nuts": [
+    { "id": 31, "name": "Cashews", "price": "₹225", "image": "/Images/nuts/n1.jpeg" },
+    { "id": 32, "name": "Almonds", "price": "₹262.50", "image": "/Images/nuts/n2.jpeg" },
+    { "id": 33, "name": "Peanuts", "price": "₹112.50", "image": "/Images/nuts/n4.jpeg" },
+    { "id": 34, "name": "Walnuts", "price": "₹300", "image": "/Images/nuts/n5.jpeg" },
+    { "id": 35, "name": "Pistachios", "price": "₹337.50", "image": "/Images/nuts/n6.jpeg" },
+    { "id": 36, "name": "Hazelnuts", "price": "₹375", "image": "/Images/nuts/n3.jpeg" }
+  ]
+}
